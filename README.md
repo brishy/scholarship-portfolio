@@ -13,6 +13,11 @@ This project showcases a scholarship portfolio website that I created for applyi
 - **Interactive Elements**: Utilizes JavaScript to incorporate interactive elements, enhancing user engagement and interactivity.
 - **Custom Styling**: CSS/SCSS is used to customize the visual elements, ensuring a unique and personalized appearance.
 
+## Lessons Learned:
+- Designing a scholarship portfolio website required a focus on responsive design principles to ensure a seamless experience across various devices and screen sizes.
+- Developing this project enhanced my proficiency in HTML, CSS, and basic JavaScript, which are fundamental skills in web development.
+- Creating a portfolio for a scholarship application emphasized the importance of presenting skills, achievements, and projects effectively.
+
 ## Usage
 
 To view the scholarship portfolio, simply open the `index.html` file in your preferred web browser.
